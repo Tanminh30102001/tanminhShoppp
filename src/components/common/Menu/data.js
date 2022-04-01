@@ -53,7 +53,7 @@ export const menuItemsData = [
     name: 'Soup Miso',
     info: 'spicey with garlic and then deep fried to crispy perfection',
     price: 24,
-    img: 'https://images.pexels.com/photos/7474164/pexels-photo-7474164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+    img: 'https://images.pexels.com/photos/7474164/pexels-photo-7474164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940', 
   },
   {
     id: 9,
