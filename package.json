@@ -2,7 +2,7 @@
   "name": "shop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tanminh30102001.github.io/tanminhshop/",
+  "homepage": "https://github.com/Tanminh30102001/tanminhshop.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",

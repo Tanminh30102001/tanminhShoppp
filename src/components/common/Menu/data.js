@@ -8,10 +8,10 @@ export const menuItemsData = [
   },
   {
     id: 2,
-    name: 'Egg Burgur',
+    name: 'Egg Burger',
     info: 'spicey with garlic and then deep fried to crispy perfection',
     price: 24,
-    img: 'https://images.pexels.com/photos/6529815/pexels-photo-6529815.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+    img: 'https://images.pexels.com/photos/1251198/pexels-photo-1251198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
   },
   {
     id: 3,
@@ -25,7 +25,7 @@ export const menuItemsData = [
     name: 'white sauce pasta',
     info: 'spicey with garlic and then deep fried to crispy perfection',
     price: 24,
-    img: '/images/bowl3.png',
+    img: 'https://images.pexels.com/photos/803963/pexels-photo-803963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
   },
   {
     id: 5,
@@ -39,21 +39,21 @@ export const menuItemsData = [
     name: 'pizza',
     info: 'spicey with garlic and then deep fried to crispy perfection',
     price: 24,
-    img: 'https://pixabay.com/photos/pizza-bakery-products-fast-food-2000595/',
+    img: 'https://images.pexels.com/photos/10337723/pexels-photo-10337723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
   },
   {
     id: 7,
-    name: 'Chocolate Muffin',
+    name: 'Tacos Mexican',
     info: 'spicey with garlic and then deep fried to crispy perfection',
     price: 24,
-    img: '/images/granola cereal bowl.png',
+    img: 'https://images.pexels.com/photos/8448331/pexels-photo-8448331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
   },
   {
     id: 8,
-    name: 'pancake',
+    name: 'Soup Miso',
     info: 'spicey with garlic and then deep fried to crispy perfection',
     price: 24,
-    img: 'https://pixabay.com/photos/pancakes-maple-syrup-raspberries-2291908/',
+    img: 'https://images.pexels.com/photos/7474164/pexels-photo-7474164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
   },
   {
     id: 9,
@@ -85,10 +85,10 @@ export const menuItemsData = [
   },
   {
     id: 13,
-    name: 'greek salad',
+    name: 'Filet Fish',
     info: 'spicey with garlic and then deep fried to crispy perfection',
     price: 24,
-    img: '/images/kisspng-greek-salad-fruit-salad-spinach-salad-muesli-vegetable-salad-5a96f429ce9af3.7299622115198423458463.png',
+    img: 'https://images.pexels.com/photos/4663250/pexels-photo-4663250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
   },
   {
     id: 14,
