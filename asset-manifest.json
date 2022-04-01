@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tanminh30102001/tanminhshop.git/static/css/main.3b264c09.chunk.css",
+    "main.js": "/Tanminh30102001/tanminhshop.git/static/js/main.073971c2.chunk.js",
+    "main.js.map": "/Tanminh30102001/tanminhshop.git/static/js/main.073971c2.chunk.js.map",
+    "runtime-main.js": "/Tanminh30102001/tanminhshop.git/static/js/runtime-main.3e424600.js",
+    "runtime-main.js.map": "/Tanminh30102001/tanminhshop.git/static/js/runtime-main.3e424600.js.map",
+    "static/js/2.57fa92d3.chunk.js": "/Tanminh30102001/tanminhshop.git/static/js/2.57fa92d3.chunk.js",
+    "static/js/2.57fa92d3.chunk.js.map": "/Tanminh30102001/tanminhshop.git/static/js/2.57fa92d3.chunk.js.map",
+    "index.html": "/Tanminh30102001/tanminhshop.git/index.html",
+    "static/css/main.3b264c09.chunk.css.map": "/Tanminh30102001/tanminhshop.git/static/css/main.3b264c09.chunk.css.map",
+    "static/js/2.57fa92d3.chunk.js.LICENSE.txt": "/Tanminh30102001/tanminhshop.git/static/js/2.57fa92d3.chunk.js.LICENSE.txt",
+    "static/media/banner.75527149.png": "/Tanminh30102001/tanminhshop.git/static/media/banner.75527149.png",
+    "static/media/logo.bda6e975.png": "/Tanminh30102001/tanminhshop.git/static/media/logo.bda6e975.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e424600.js",
+    "static/js/2.57fa92d3.chunk.js",
+    "static/css/main.3b264c09.chunk.css",
+    "static/js/main.073971c2.chunk.js"
+  ]
+}
